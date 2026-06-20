@@ -1,0 +1,14 @@
+# ========================================
+# Project Management API - Docker Ignore
+# ========================================
+target/
+.mvn/wrapper/maven-wrapper.jar
+.idea/
+*.iws
+*.iml
+*.ipr
+.git
+.gitignore
+.env
+*.md
+.vscode/
