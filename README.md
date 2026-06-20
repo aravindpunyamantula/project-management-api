@@ -40,7 +40,7 @@ Controller → Service → Repository → Database
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/aravindpunyamantula/project-management-api
 cd project-management-api
 ```
 
